@@ -30,3 +30,4 @@ This repository is in its initial state. As the codebase grows, update this file
 - Build and test commands
 - Architecture patterns and conventions
 - Key modules and their interactions
+- 모든 장소의 'admission_fee'는 반드시 원화(KRW) 단위를 포함하여 문자열로 명시한다. 숫자로만 되어 있으면 안 된다.
