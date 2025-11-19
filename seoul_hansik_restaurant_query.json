@@ -1,0 +1,17 @@
+{
+  "query": {
+    "location": "서울",
+    "category": "한식",
+    "type": "맛집",
+    "filters": {
+      "registered_date": "yesterday",
+      "registered_date_exact": "2025-11-18"
+    }
+  },
+  "action": "search",
+  "metadata": {
+    "original_query": "어제 등록된 서울의 한식 맛집 찾아줘",
+    "intent": "restaurant_search",
+    "created_at": "2025-11-19"
+  }
+}
