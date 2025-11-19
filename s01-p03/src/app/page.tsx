@@ -62,6 +62,9 @@ export default function Home() {
           >
             Documentation
           </a>
+          <button className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-md shadow-md">
+            더 알아보기
+          </button>
         </div>
       </main>
 
