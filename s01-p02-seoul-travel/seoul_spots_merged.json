@@ -1,0 +1,94 @@
+{
+  "attractions": [
+    {
+      "place_name": "경복궁",
+      "category": "역사",
+      "tags": ["#전통미", "#인생샷", "#한복대여", "#왕궁투어"],
+      "summary": "조선왕조의 정궁에서 한국의 찬란한 역사와 전통 건축미를 만끽하고 싶은 역사 애호가와 포토제닉한 한복 체험을 원하는 여행객에게 완벽한 곳",
+      "operating_hours": "09:00 - 18:00 (화요일 휴궁)",
+      "admission_fee": "성인 3,000 KRW",
+      "pro_tip": "한복 착용 시 무료 입장. 매 정시마다 열리는 수문장 교대식은 꼭 볼 것."
+    },
+    {
+      "place_name": "북촌한옥마을",
+      "category": "역사",
+      "tags": ["#한복체험", "#전통미", "#커플여행", "#포토존"],
+      "summary": "전통 한옥 골목길과 궁궐을 배경으로 한복을 입고 타임슬립한 듯한 감성 사진을 남기고 싶은 커플과 인플루언서에게 추천",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "국립중앙박물관",
+      "category": "역사",
+      "tags": ["#문화탐방", "#가족여행", "#실내명소", "#야경맛집"],
+      "summary": "한국의 5천년 역사를 한눈에 볼 수 있는 세계적 수준의 박물관으로, 문화와 예술을 사랑하는 지적 호기심 가득한 여행객에게 제격",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "N서울타워",
+      "category": "전망",
+      "tags": ["#야경맛집", "#데이트코스", "#랜드마크", "#파노라마뷰"],
+      "summary": "서울 시내를 360도로 조망할 수 있는 최고의 전망대로, 낭만적인 야경 데이트를 꿈꾸는 커플과 서울의 전경을 담고 싶은 사진작가에게 최적",
+      "operating_hours": "10:00 - 23:00",
+      "admission_fee": "전망대 1인 21,000 KRW",
+      "pro_tip": "해질녘에 올라가서 서울의 일몰과 야경을 함께 감상하는 것이 최고."
+    },
+    {
+      "place_name": "서울숲",
+      "category": "자연",
+      "tags": ["#힐링스팟", "#산책코스", "#반려동물", "#피크닉"],
+      "summary": "도심 속 울창한 녹지 공원에서 여유로운 산책과 피크닉을 즐기고 싶은 현지인 감성 여행객과 가족 단위 방문객에게 안성맞춤",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "한강공원",
+      "category": "자연",
+      "tags": ["#치맥성지", "#자전거투어", "#일몰명소", "#피크닉"],
+      "summary": "서울 시민의 휴식처이자 치맥(치킨+맥주) 문화를 체험할 수 있는 곳으로, 로컬 라이프를 경험하고 싶은 자유로운 배낭여행객에게 강력 추천",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "명동",
+      "category": "쇼핑",
+      "tags": ["#쇼핑천국", "#K뷰티", "#맛집투어", "#번화가"],
+      "summary": "K-뷰티 화장품과 최신 트렌드 아이템을 쇼핑하고 길거리 음식을 즐기고 싶은 쇼핑 러버와 먹방 여행객의 필수 코스",
+      "operating_hours": "대부분 상점 11:00 - 22:00",
+      "admission_fee": "없음",
+      "pro_tip": "길거리 음식이 명물이지만, 저녁 시간에는 매우 붐비니 소지품 주의."
+    },
+    {
+      "place_name": "홍대",
+      "category": "엔터테인먼트",
+      "tags": ["#젊음의거리", "#인디문화", "#클럽투어", "#버스킹"],
+      "summary": "예술과 음악이 넘치는 청춘의 거리에서 K-인디 문화와 활기찬 나이트라이프를 만끽하고 싶은 20-30대 여행객에게 최고의 선택",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "롯데월드",
+      "category": "엔터테인먼트",
+      "tags": ["#테마파크", "#가족여행", "#실내외놀이", "#어트랙션"],
+      "summary": "실내외 놀이기구와 퍼레이드를 즐길 수 있는 세계적인 테마파크로, 짜릿한 모험과 동심을 찾는 가족 여행객과 커플에게 완벽",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    },
+    {
+      "place_name": "DDP 동대문디자인플라자",
+      "category": "엔터테인먼트",
+      "tags": ["#현대건축", "#야경맛집", "#전시관람", "#인생샷"],
+      "summary": "자하 하디드가 설계한 미래적 건축물에서 디자인 전시와 LED 장미정원 야경을 감상하고 싶은 건축 애호가와 감성 여행객에게 추천",
+      "operating_hours": null,
+      "admission_fee": null,
+      "pro_tip": null
+    }
+  ]
+}
